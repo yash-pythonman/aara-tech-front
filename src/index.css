@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.homeHeader{
+ border : solid black 2px;
+ height: 150px;
+ background-color: lightgreen;
+}

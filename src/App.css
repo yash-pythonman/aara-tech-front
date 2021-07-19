@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.Menu a{
+ border: white 2px solid;
+ border-radius: 10px;
+ text-decoration: none;
+ color: white;
+ margin: 20px;
+ font-size: 20px;
+ padding: 10px;
+}
+
+.Menu a:hover{
+  border: orange 2px solid;
+   color: orange;
+  }
